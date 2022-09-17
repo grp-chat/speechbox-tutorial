@@ -215,14 +215,21 @@ const containerArr = [
     container9, container10
 ]
 
-container1.playerId = "LK";
-container2.playerId = "LXR";
-container3.playerId = "SZF";
-container4.playerId = "JHA";
-container5.playerId = "JL";
-container6.playerId = "JV";
-container7.playerId = "H";
-container8.playerId = "CUR";
+// container1.playerId = "LK";
+// container2.playerId = "LXR";
+// container3.playerId = "SZF";
+// container4.playerId = "JHA";
+// container5.playerId = "JL";
+// container6.playerId = "JV";
+// container7.playerId = "H";
+container1.playerId = "JX";
+container2.playerId = "JZ";
+container3.playerId = "TWN";
+container4.playerId = "LJY";
+container5.playerId = "LSH";
+container6.playerId = "ELI";
+container7.playerId = "CUR";
+container8.playerId = "RYD";
 container9.playerId = "CT";
 container10.playerId = "TCR";
 
@@ -260,11 +267,11 @@ const emoji9 = container9.nextElementSibling.querySelector(".emoji");
 const emoji10 = container10.nextElementSibling.querySelector(".emoji");
 
 emoji1.innerHTML = emojis.slot1Boy;
-emoji2.innerHTML = emojis.slot2Girl;
-emoji3.innerHTML = emojis.slot3Boy;
-emoji4.innerHTML = emojis.slot4Boy;
+emoji2.innerHTML = emojis.slot2Boy;
+emoji3.innerHTML = emojis.slot3Girl;
+emoji4.innerHTML = emojis.slot4Girl;
 emoji5.innerHTML = emojis.slot5Boy;
-emoji6.innerHTML = emojis.slot6Boy;
+emoji6.innerHTML = emojis.slot6Girl;
 emoji7.innerHTML = emojis.slot7Boy;
 emoji8.innerHTML = emojis.slot8Boy;
 emoji9.innerHTML = emojis.slot9Girl;
