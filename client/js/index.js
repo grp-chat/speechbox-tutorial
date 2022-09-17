@@ -229,7 +229,6 @@ container10.playerId = "TCR";
 const emojis = {
     slot1Boy: "👨‍✈️",
     slot1Girl: "👩‍✈️",
-
     slot2Boy: "👨‍🚀",
     slot2Girl: "👩‍🚀",
     slot3Boy: "👨‍⚕️",
@@ -246,11 +245,30 @@ const emojis = {
     slot8Girl: "👩‍🔬",
     slot9Boy: "👨‍🎨",
     slot9Girl: "👩‍🎨",
-    slot10Boy: ""
+    slot10Boy: "🕵"
 }
 
 const emoji1 = container1.nextElementSibling.querySelector(".emoji");
-emoji1.innerHTML = emojis.slot2Boy;
+const emoji2 = container2.nextElementSibling.querySelector(".emoji");
+const emoji3 = container3.nextElementSibling.querySelector(".emoji");
+const emoji4 = container4.nextElementSibling.querySelector(".emoji");
+const emoji5 = container5.nextElementSibling.querySelector(".emoji");
+const emoji6 = container6.nextElementSibling.querySelector(".emoji");
+const emoji7 = container7.nextElementSibling.querySelector(".emoji");
+const emoji8 = container8.nextElementSibling.querySelector(".emoji");
+const emoji9 = container9.nextElementSibling.querySelector(".emoji");
+const emoji10 = container10.nextElementSibling.querySelector(".emoji");
+
+emoji1.innerHTML = emojis.slot1Boy;
+emoji2.innerHTML = emojis.slot2Girl;
+emoji3.innerHTML = emojis.slot3Boy;
+emoji4.innerHTML = emojis.slot4Boy;
+emoji5.innerHTML = emojis.slot5Boy;
+emoji6.innerHTML = emojis.slot6Boy;
+emoji7.innerHTML = emojis.slot7Boy;
+emoji8.innerHTML = emojis.slot8Boy;
+emoji9.innerHTML = emojis.slot9Girl;
+emoji10.innerHTML = emojis.slot10Boy;
 
 var speeds = {
     pause: 500, //Higher number = longer delay
