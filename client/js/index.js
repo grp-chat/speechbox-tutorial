@@ -292,27 +292,6 @@ const textLines = [
     // { speed: speeds.fast, string: "frog", classes: ["green"] },
     // { speed: speeds.fast, string: "around? 👨‍✈️" }
 ];
-// const textLines1 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines2 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines3 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines4 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines5 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines6 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines7 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines8 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines9 = [{ speed: speeds.fast, string: "Hello! " }];
-// const textLines10 = [{ speed: speeds.fast, string: "Hello! " }];
-
-// container1.textLines = "Hello and testing";
-// container2.textLines = "Hello and testing";
-// container3.textLines = "Hello and testing";
-// container4.textLines = "Hello and testing";
-// container5.textLines = "Hello and testing";
-// container6.textLines = "Hello and testing";
-// container7.textLines = "Hello and testing";
-// container8.textLines = "Hello and testing";
-// container9.textLines = "Hello and testing";
-// container10.textLines = "Hello and testing";
 
 
 containerArr.forEach(container => {
