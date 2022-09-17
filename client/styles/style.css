@@ -17,7 +17,10 @@
     background: #3498db;
     padding: 0em;
     font-family: 'Sora', monospace;
+    transform: scale(0.9);
+   transform-origin: 0 0;
  }
+
  .text {
     font-size: 1.2vw;
     word-spacing: 0.2em;
