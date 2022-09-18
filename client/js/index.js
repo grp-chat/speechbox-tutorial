@@ -36,7 +36,7 @@ const promptMsg = () => {
         sun230pmStudent3: { pinNumber: '7051', nickname: "KN" },
         sun230pmStudent4: { pinNumber: '4162', nickname: "JT" },
         sun230pmStudent5: { pinNumber: '2105', nickname: "CJH" },
-        sun230pmStudent6: { pinNumber: '1529', nickname: "LSH" },
+        sun230pmStudent6: { pinNumber: '5086', nickname: "CED" },
         sun230pmStudent7: { pinNumber: '2167', nickname: "KX" },
         sun230pmStudent8: { pinNumber: '6588', nickname: "TJY" }
     }
